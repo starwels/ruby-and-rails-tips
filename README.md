@@ -1,5 +1,9 @@
 https://levelup.gitconnected.com/ultimate-guide-to-blazing-fast-performance-in-rails-1-77e281a1df52
 
+## ActiveJob
+
+https://github.com/toptal/active-job-style-guide
+
 ## ActiveRecord
 
 ```ruby
